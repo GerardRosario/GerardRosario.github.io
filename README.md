@@ -7,3 +7,5 @@ My portfolio of projects, and some basic information about me.
 - HMTL
 - CSS
 - JavaScript
+
+## Screenshots
