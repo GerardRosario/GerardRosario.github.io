@@ -3,3 +3,8 @@
 My portfolio of projects, and some basic information about me.
 
 
+## Tools / Technology
+
+- HMTL
+- CSS
+- JavaScript
